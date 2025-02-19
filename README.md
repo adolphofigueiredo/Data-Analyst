@@ -1,2 +1,6 @@
 # Data-Analyst
-Repository dedicated to storing completed courses and their respective exercises, with a focus on data analysis. Here, I gather materials, code, and insights gained throughout the learning process, consolidating knowledge in techniques, tools, and best practices in the field.
+This repository serves as a comprehensive collection of the courses I have completed and the exercises I have worked on, with a primary focus on data analysis. It is designed to document my learning journey, consolidating theoretical knowledge and practical applications in one organized space.
+
+Within this repository, you will find structured materials, code implementations, and key insights gained throughout various courses. Each section includes hands-on exercises, real-world case studies, and coding projects that reinforce my understanding of essential data analysis techniques and tools. Additionally, a significant part of my learning involves ETL (Extract, Transform, Load) processes, where I work on extracting data from multiple sources, transforming it into a structured format, and loading it into databases or analytical systems.
+
+The goal of this repository is not only to track my progress but also to serve as a reference for future projects and continuous learning. By applying best practices and working with different datasets, I aim to refine my skills in data manipulation, visualization, ETL workflows, and interpretation, ensuring a strong foundation for more advanced topics in analytics.
